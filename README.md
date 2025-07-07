@@ -46,5 +46,4 @@ Powered by **Gemini Pro** (Google’s generative-AI model), built with nothing b
 
 ---
 
-## 🗄️ Project structure
 
