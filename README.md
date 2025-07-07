@@ -3,8 +3,6 @@
 Summarize any news story, blog post, or long-form article in **one click**—right inside your browser.  
 Powered by **Gemini Pro** (Google’s generative-AI model), built with nothing but **HTML, CSS, and vanilla JavaScript**.
 
-![Extension banner](docs/images/banner.png)
-
 ---
 
 ## ✨ Features
